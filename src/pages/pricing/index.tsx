@@ -1,5 +1,5 @@
-import MainLayout from "@/components/layout/MainLayout";
 import Link from "next/link";
+import MainLayout from "../../components/layout/MainLayout";
 
 const Pricing = () => {
   return (
